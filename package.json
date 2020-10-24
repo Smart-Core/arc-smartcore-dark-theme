@@ -1,0 +1,31 @@
+{
+  "name": "@smart-core/arc-smartcore-dark-theme",
+  "description": "Dark theme definition for Advanced REST Client",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "main": "arc-smartcore-dark-theme.css",
+  "keywords": [
+    "arc",
+    "theme"
+  ],
+  "authors": [
+    "Art Digi",
+    "The Advanced REST client authors <art@smart-core.org>"
+  ],
+  "contributors": [
+    "Art Digi",
+    "The Advanced REST client authors <art@smart-core.org>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Smart-Core/arc-smartcore-dark-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Smart-Core/arc-smartcore-dark-theme/issues",
+    "email": "art@smart-core.org"
+  },
+  "private": false,
+  "scripts": {
+    "test": "exit 0"
+  }
+}
